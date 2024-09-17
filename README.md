@@ -9,7 +9,7 @@ Insert package using the **Unity Package Manager** or directly in `Packages/mani
 ```json
     {
         "dependencies": {
-            "com.preliy.chain": "https://github.com/Preliy/Chain.git",
+            "com.preliy.chain": "https://github.com/Preliy/Chain.git#upm",
             "com.unity.render-pipelines.universal": "14.0.11"
         }
     }
